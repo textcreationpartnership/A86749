@@ -1,0 +1,195 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The humble petition and protestation of the county of Kent: presented the 30th of August, 1642. to the honorable Houses of Parliament by Sir John Sidley knight, with many thousands of hands thereunto. Wherein they disclaim that late, bold, and unexampled petition sent to His Majestie, contrived by a few malevolent, ambitious and loose persons, and their reall affections to King and Parliament. Together with Sir John Sidleys speech upon the presenting of the said petition. Also, the answer of the House of Commons to the said petition delivered by their speaker. Ordered by the Commons in Parliament, that these petitions be forthwith printed and published: H. Elsynge, Cler. Parl. D. Com.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A86749</idno>
+            <idno type="STC">Wing H3435</idno>
+            <idno type="STC">Thomason E115_1</idno>
+            <idno type="STC">ESTC R2245</idno>
+            <idno type="EEBO-CITATION">99871756</idno>
+            <idno type="PROQUEST">99871756</idno>
+            <idno type="VID">156013</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A86749)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156013)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 20:E115[1])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The humble petition and protestation of the county of Kent: presented the 30th of August, 1642. to the honorable Houses of Parliament by Sir John Sidley knight, with many thousands of hands thereunto. Wherein they disclaim that late, bold, and unexampled petition sent to His Majestie, contrived by a few malevolent, ambitious and loose persons, and their reall affections to King and Parliament. Together with Sir John Sidleys speech upon the presenting of the said petition. Also, the answer of the House of Commons to the said petition delivered by their speaker. Ordered by the Commons in Parliament, that these petitions be forthwith printed and published: H. Elsynge, Cler. Parl. D. Com.</title>
+                  <author>Sidley, John, Sir, b. 1559 or 60.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Luke Norton and John Field for E. Husband and J. Franck, and are to be sold at their shops in the Middle-Temple, and next door to the Kings-head in Fleetstreet,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>September 1. 1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Occasioned by "The humble petition of the Commons of Kent, agreed upon at their generall assizes" of 1 August 1642.</note>
+                  <note>In "The humble petition and resolvtion of the countie of Kent" the petition here headed "To the right honourable, the Commons House of Parliament" (p. 6-7) is directed to the House of Lords.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Humble petition of the Commons of Kent, agreed upon at their generall assizes.</term>
+               <term>Kent (England) --  History.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-07</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-07</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156013:1"/>
+            <pb facs="tcp:156013:1" rendition="simple:additions"/>
+            <p>The Humble PETITION AND PROTESTATION of the County of <hi>KENT:</hi> Preſented the 30<hi rend="sup">th</hi> of Auguſt, 1642. to the Honorable Houſes of PARLIAMENT By Sir <hi>JOHN SIDLEY</hi> Knight, with many thouſands of hands thereunto.</p>
+            <p>Wherein they diſclaim that late, bold, and unexampled Petition ſent to His Majeſtie, contrived by a few malevolent, ambitious and looſe perſons, and their reall affections to <hi>KING</hi> and <hi>PARLIAMENT.</hi>
+            </p>
+            <p>Together with Sir <hi>John Sidleys</hi> Speech upon the pre<g ref="char:EOLhyphen"/>ſenting of the ſaid Petition.</p>
+            <p>Alſo, the Anſwer of the Houſe of Commons to the ſaid Petition delivered by their <hi>SPEAKER.</hi>
+            </p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>ORdered by the Commons in Parliament, That theſe Petitions be forthwith Printed and publiſhed:</p>
+                        <closer>
+                           <signed>H. Elſynge, Cler. Parl. D. Com.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>
+               <hi>London,</hi> Printed by LUKE NORTON and JOHN FIELD for <hi>E. Husband</hi> and <hi>J. Franck,</hi> and are to be ſold at their ſhops in the Middle-Temple, and next door to the Kings-head in Fleetſtreet. <hi>September</hi> 1. 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="speech">
+            <pb facs="tcp:156013:2"/>
+            <pb n="3" facs="tcp:156013:2"/>
+            <opener>
+               <dateline>
+                  <date>Die Martis 30 Auguſti, 1642.</date>
+               </dateline>
+            </opener>
+            <head>THe Houſe being informed that divers well-affected Gentle<g ref="char:EOLhyphen"/>men of <hi>Kent</hi> were at the door to preſent to this Houſe an humble Petition, they were called in; And Sir <hi>John Sidley</hi> in the name of the reſt, ſpake to this effect following:</head>
+            <opener>
+               <salute>Mr. <hi>SPEAKER,</hi>
+               </salute>
+            </opener>
+            <p n="1">1. I Am intruſted by the well-affected Gentry, and Commons of <hi>Kent,</hi> to preſent their humble de<g ref="char:EOLhyphen"/>ſires, and faithfull Reſolutions, in a Petition to this Honorable Houſe.</p>
+            <p n="2">2. This Petition comes guided hither with as many hearts as hands; It is like a coat without ſeame; it hath no ſubtill diſguiſed Preamble to it; it is all of a piece, ſpeaking plain language, yet full of loyalty, and obe<g ref="char:EOLhyphen"/>dience to His Majeſty and the Parliament.</p>
+            <p n="3">3. This Petition is more conſiderable then any that hath been preſented from this County, coming not onely from that part of the Gentry who are exceed<g ref="char:EOLhyphen"/>ingly well-affected to the true Religion, and their Country, but embraced with ſuch a unanimous con<g ref="char:EOLhyphen"/>ſent of the intire body of the Commonalty, as that each man conteſted for the firſt ſubſcription to it.</p>
+            <p n="4">4. The Commons of <hi>Kent</hi> are very deeply ſenſible of the many injuries done them by ſeverall Petitions, eſpecially by that late unexampled bold one to His Majeſtie, falſly aſſuming to it the Votes of the whole County; whereas indeed, it was contrived by a few malevolent and ambitious ſpirits only, and wholly diſ<g ref="char:EOLhyphen"/>claimed of the Commons, and was ſubſcribed by divers
+<pb n="4" facs="tcp:156013:3"/>looſe and diſſolute perſons. This was growing to a dangerous Impoſthume (having gathered the moſt of its corruption about the Town of <hi>Maydstone</hi>) had not the Parliament timely obſerved it, and applyed that ſeaſonable remedy, ſending down the late Troops of Horſe to launch the ſore, thereby preventing all fur<g ref="char:EOLhyphen"/>ther or future ulceration: For which vigilant care of theirs thus to preſerve the whole body, the Commons have deſired me to return their moſt humble and gratefull acknowledgement to this Honorable Houſe.</p>
+         </div>
+         <div type="petition">
+            <head>To the Honorable, the Knights, Citizens and Burgeſſes now aſſembled in the high Court of Parliament: The humble Petition and Proteſtation of the Knights, Gentlemen, and Commons of the County of <hi>Kent;</hi>
+            </head>
+            <opener>SHEWETH,</opener>
+            <p>THat the feare of miſapprehenſions and miſun<g ref="char:EOLhyphen"/>derſtandings of our duties and reſpects to this Houſe, is that which emboldens us humbly to preſent our affections and proteſtations.</p>
+            <p>And firſt, with all poſſible thanks for your great care and Reſolution in the well diſcharge of your pub<g ref="char:EOLhyphen"/>lick truſt, which (with ſo much oppoſition to you, never read or heard of in former times) you have hi<g ref="char:EOLhyphen"/>therto undertaken and encountred, with the hazard of ſome of your Lives and Fortunes.</p>
+            <p>And we do all moſt confidently believe, and much
+<pb n="5" facs="tcp:156013:3"/>joy in the thought of it (notwithſtanding the miſre<g ref="char:EOLhyphen"/>preſentation of your Actions by ſome ill-affected to publick good for private ends) that all your Actions and endeavours have aymed at the maintenance of the Proteſtant Religion, the preſervation of the Kings Perſon, the Rights and Priviledges of Parliament, and the Liberties of the Subject, according to the late Pro<g ref="char:EOLhyphen"/>teſtation commended to us.</p>
+            <p>And that there may not appear of any fayler in our duties and reſpects to you, We the Knights, Gentle<g ref="char:EOLhyphen"/>men, and Commons of the County aforeſaid, Do humbly preſent this Proteſtation; That to our ut<g ref="char:EOLhyphen"/>moſt powers and endeavours, and with the hazard of all that is neer and deer unto us in our lives and eſtates, we ſhall and will maintain, preſerve, and defend, the Rights and Priviledges of Parliament, and the full au<g ref="char:EOLhyphen"/>thority thereof, the Kings Perſon, the Proteſtant Re<g ref="char:EOLhyphen"/>ligion, and the Liberties of the Subject.</p>
+            <p>And we humbly deſire that all ill-affected perſons oppoſite hereunto, by the power and juſtice of this Houſe, may receive ſuch a degree of puniſhment, as thoſe that are profeſſed enemies to the true Religion, the peace and proſperity of this Kingdom.</p>
+            <p>And we humbly pray God (whom we infinitely praiſe and thank for his bleſſings hitherto, your endea<g ref="char:EOLhyphen"/>vours manifeſted in the happy ſettlement of peace be<g ref="char:EOLhyphen"/>twixt us and our Neighbour Nation, and in the pre<g ref="char:EOLhyphen"/>ſervation of ſome of your Members from apparent dangers) that thoſe miſts of miſunderſtandings fomen<g ref="char:EOLhyphen"/>ted by perſons ill-affected to our publick peace &amp; reli<g ref="char:EOLhyphen"/>gion, and now interpoſing betwixt His Majeſties grace and goodneſſe to you, and your duties to Him (hinder<g ref="char:EOLhyphen"/>ing
+<pb n="6" facs="tcp:156013:4"/>thoſe ſweet influences, which otherwiſe in a great meaſure by all probability would have a free paſſage betwixt His Majeſtie and you) by your great wiſ<g ref="char:EOLhyphen"/>doms may be ſo diſpel'd and taken away, that a cleer and right underſtanding might be had of your Actions and Intentions to His Majeſtie and this Kingdom: And this (God working in his Majeſties heart an inclinati<g ref="char:EOLhyphen"/>on thereunto) we are confident will ſpeedily render a great proportion of happineſſe to His Majeſtie, your ſelves and the reſt of this Kingdom.</p>
+            <closer>Which ſhall be the prayers of, &amp;c.</closer>
+         </div>
+         <div type="petition">
+            <head>
+               <hi>To the Right Honourable, the Commons Houſe of Parliament:</hi> The humble Petition of the Knights, Gentlemen, and Commons, of the County of Kent.</head>
+            <p>WE your humble and faithfull Petitioners in<g ref="char:EOLhyphen"/>habiting the Countie of <hi>Kent,</hi> being deeply ſenſible of the many miſeries which theſe ca<g ref="char:EOLhyphen"/>lamitous times (notwithſtanding your great care and vigilance to prevent the ſame) are likely to produce, wherein His gratious Majeſtie, ſeduced by the malevo<g ref="char:EOLhyphen"/>lent Councell of an ill-affected party of Malignants and Cavaliers, the Proteſtant Religion, His Royall Perſon and Honour, the Priviledge of Parliament, &amp; the Subjects Liberty are threatned with too too ap<g ref="char:EOLhyphen"/>parent hazard and ruine, towards the ſupport of which, your Petitioners according to the duty of loyal ſubjects and good Chriſtians, are not only willing to contribute
+<pb n="7" facs="tcp:156013:4"/>their beſt wiſhes &amp; Votes, but even the utmoſt of their endeavours, both with their lives &amp; fortunes, for the re<g ref="char:EOLhyphen"/>deeming of His Majeſtie from ſuch hands, and our Re<g ref="char:EOLhyphen"/>ligion &amp; Liberty from ſuch peril and danger; But may it pleaſe this honorable Houſe to conſider, that the Pe<g ref="char:EOLhyphen"/>titioners apprehend themſelves in a condition and po<g ref="char:EOLhyphen"/>ſture nothing ſutable to this their Reſolution, being de<g ref="char:EOLhyphen"/>prived and left naked by the taking our Arms from us in the late expedition for <hi>Scotland;</hi> We therefore be<g ref="char:EOLhyphen"/>ſeech your provident care to impower us with ſuch a proportion of Ammunition and Arms to be maga<g ref="char:EOLhyphen"/>zin'd in theſe parts, whereby we may be enabled to manifeſt our affections and obedience to the Com<g ref="char:EOLhyphen"/>mand of King and Parliament, both for the purſuance of the aforeſaid intentions, and oppoſition of all ille<g ref="char:EOLhyphen"/>gall infringements of our Laws and Liberties, ſuch as the Commiſſion of Array, wherewith we are at this time threatned, and what other of the like nature and condition ſoever, ſhall be hereafter obtruded upon us.</p>
+            <p>
+               <hi>And your Petitioners ſhall be bound, &amp;c.</hi>
+            </p>
+         </div>
+         <div type="speech">
+            <head>The Anſwer of the Houſe of Commons, to the Petitions of the Knights, Gentlemen, and Commons of the County of <hi>Kent,</hi> pre<g ref="char:EOLhyphen"/>ſented the <hi>30</hi> of <hi>Auguſt, 1642.</hi> delivered by their Speaker.</head>
+            <opener>
+               <salute>GENTLEMEN,</salute>
+            </opener>
+            <p>I Am commanded by the Houſe to let you know, That it is no ſmall ſatisfaction and contentment to this Houſe, to find the affectio<g ref="char:cmbAbbrStroke">̄</g>s &amp; reſolutions of your County, expreſſed to them ſo ſeaſonably and ſo worthy of your ſelves, as they now receive them in theſe Petiti<g ref="char:EOLhyphen"/>ons; eſpecially obſerving the many ſubtill practiſes that have bin ſet on foot under the name of that Coun<g ref="char:EOLhyphen"/>ty,
+<pb n="8" facs="tcp:156013:5"/>to work in this Houſe a contrary opinion of you; from which you have now ſo well and fully vindicated your ſelves and them.</p>
+            <p>Nor can we but obſerve, that at this time, when con<g ref="char:EOLhyphen"/>trary to the Fundamentall Conſtitution of this Go<g ref="char:EOLhyphen"/>vernment, both Houſes of Parliament, and the whole Kingdom in them repreſented, are by the ſeducement of wicked Councell, proclaimed Traytors, (a thing until this time unheard of) you do with ſo much zeal and reſolution, offer your ſelves, your lives and fortunes, to ſupport your Religion and Liberty, your Country, King and Parliament, all now in imminent danger of utter ruine. For which, the Houſe hath commanded me to return you their moſt hearty thanks. And touching thoſe Malignant and ill-affected perſons, whereof you have in your Petition given a generall character, and in particular preſented a Liſt of ſome of them; This Houſe doth aſſure you, That they will, according to your deſires, proceed againſt them with all expedition and ſeverity.</p>
+            <p>And concerning your deſires for a ſupply of Am<g ref="char:EOLhyphen"/>munition and Arms for the defence of your County, ſuch hath been the care of both Houſes in that particu<g ref="char:EOLhyphen"/>lar, and for the generall ſecurity and peace hereof, That they have already granted full power and Inſtructions to a Committee, and the Deputy Lieutenants appoint<g ref="char:EOLhyphen"/>ed by them for your County, to take a courſe therein, which they doubt not will give you ample ſatisfaction.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
